@@ -61,5 +61,5 @@ Web developer, currently teaching myself Android development. In my spare time: 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pxarthur&theme=transparent&background=000&border=30A3DC&stroke=30A3DC&ring=E94D5F&fire=E94D5F&currStreakLabel=E94D5F&sideLabels=FFF&currStreakNum=FFF&sideNums=FFF&dates=AAA" />
+  <img src="./github-metrics.svg" />
 </div>
